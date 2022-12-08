@@ -31,7 +31,7 @@ galleryListElement.style.cssText = `display: flex;
   gap: 10px;
   align-items: center;
   justify-content: center;
-  list-style-type: none;
+  list-style: none;
   margin: 0;
   padding: 0;
   `;
