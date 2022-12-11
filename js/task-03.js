@@ -25,6 +25,8 @@ console.log(markup);
 
 galleryListElement.insertAdjacentHTML('afterbegin', markup);
 
+document.body.style.margin = '5px';
+
 galleryListElement.style.cssText = `display: flex;
   gap: 10px;
   align-items: center;
